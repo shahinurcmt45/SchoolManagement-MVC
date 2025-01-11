@@ -15,6 +15,7 @@ namespace SchoolManagement.Controllers
     {
         private SchoolManagement_DBEntities db = new SchoolManagement_DBEntities();
 
+
         // GET: Courses
         public ActionResult Index()
         {
